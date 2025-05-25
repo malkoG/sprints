@@ -13,4 +13,5 @@
 스프린트 목록
 -------------
 
- -  [2024년 8월 31일](./2024/08-31/README.md)
+ -  [2024년 8월 31일](https://sprints.fedidev.kr/posts/2024-08-31-sprint/)
+ -  [2025년 5월 24일](https://sprints.fedidev.kr/posts/2025-05-24-sprint/)
